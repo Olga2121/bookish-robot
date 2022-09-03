@@ -1,0 +1,64 @@
+body {
+    background-color: #C4C4C4;
+}
+
+.dropdown {
+    margin: 62px auto 0px auto;
+    width: 500px;
+}
+
+.dropdown-container {
+    min-height: 227px;
+}
+
+.dropdown input {
+    border: none;
+    font-size: 48px;
+    line-height: 56px;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.dropdown-content {
+    width: 100%;
+    cursor: pointer;
+    font-size: 30px;
+    line-height: 35px;
+    border: 2px solid #000;
+    box-sizing: border-box;
+    background-color: #E3E3E3;
+}
+
+.dropdown-content:hover {
+    background-color: #65CDF9;
+    cursor: pointer;
+}
+
+.chosens {
+    width: 503px;
+}
+
+.chosen {
+    display: flex;
+    font-size: 24px;
+    padding: 8px 16px;
+    line-height: 28px;
+    border: 1px solid #000;
+    background-color: #E27BEB;
+}
+
+.btn-close {
+    margin-left: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    background-repeat: no-repeat;
+    background-image: url("https://e7.pngegg.com/pngimages/863/842/png-clipart-iphone-x-color-pink-pastel-fashion-spotlight-miscellaneous-blue.png");
+    background-color: transparent;
+    background-size: contain;
+    outline: none;
+    border: none;
+    cursor: pointer;
+    width: 42px;
+    height: 38.5px;
+    right: 17px;
+}
